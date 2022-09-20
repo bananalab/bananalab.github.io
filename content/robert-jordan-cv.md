@@ -9,19 +9,20 @@
 * AWS Certified Big Data - Specialty Complete Video Course. Instructor. Produced by Pearson IT Certification. Hosted on O'Reilly Live Online Training. 2019.
 
 
-
 ## Parkside Securities October 2019 - Present
 Parkside Securities is an online brokerage with a simple mission: To simplify global access to US stocks.
 
 As a founding member of the CloudOps team I played a key role in guiding the engineering team toward best practices including Gitops, CI / CD, and SRE.
 
-#### Director, Platform Engineering Areas of responsibility:
+### Director, Platform Engineering 
+#### Areas of responsibility:
 * Cloud Operations
 * Reliability Engineering
 * Cloud Cost Management
 * Application delivery
 
-#### Principal Engineer, Cloud Operations: Technologies:
+### Principal Engineer, Cloud Operations
+#### Technologies:
 * Kubernetes
 * AWS
 * Terraform
@@ -30,7 +31,8 @@ As a founding member of the CloudOps team I played a key role in guiding the eng
 
 ## Pragmatic AI Labs June 2018 - October 2019
 Pragmatic AI Labs is dedicated to helping our clients operationalize AI, ML, and Data Science workloads and to training the next generation of Data Scientists, DevOps and Engineers to operate in a cloud native world.
-Founder
+
+### Founder
 My focus is on delivering correct and resilient solutions to clients to help them move their business forward. Particular areas of technical focus:
 * Kubernetes architecture, deployment and maintenance.
 * Adoption of IaC with Terraform.
@@ -38,8 +40,8 @@ My focus is on delivering correct and resilient solutions to clients to help the
 * AWS and GCP migrations and deployment.
 * Multi-cloud strategy.
 
-### Example Projects 
-#### SAAS Client:
+#### Example Projects 
+##### SAAS Client:
 Custom AWS ETL pipeline for sentiment analysis, aggregation, visualization, and reporting
 leveraging the AWS Serverless platform. The data for this project was ingested from the Qualtrics analytics platform then transformed and stored in AWS and presented to the front end via API Gateway. The resources were 100% managed by Terraform with support for multiple stages of development by mapping Git branches onto Terraform Workspaces.
 Technologies:
@@ -56,7 +58,7 @@ Technologies:
 * Git
 * CodeShip
 
-#### Media Client:
+##### Media Client:
 Backend for a custom Digital Asset Management System using GitLab Enterprise deployed onto Google Kubernetes Engine using Terraform with Kubernetes and Helm providers. Guided the organization toward best practices for using Terraform by developing a set of reusable modules and remote state.
 Technologies:
 * GKE
@@ -86,7 +88,8 @@ Atomic Fiction was a visual effects studio with facilities in Oakland and Montre
 ### Head of Systems
 I brought DevOps approach to a hybrid cloud environment purpose built for efficiently rendering high quality VFX work.
 
-## Linden Lab November 2012 - May 2014 Linden Lab is a VR pioneer.
+## Linden Lab November 2012 - May 2014 Linden
+Lab is a pioneer in virtual worlds (now called metaverse) technology.
 ### Manager, DevOps and Systems Engineering
 Led four cross disciplinary teams to ensure stable and reliable operations. My responsibilities included:
 * Physical network and compute infrastructure to support SecondLife platform.
@@ -96,25 +99,28 @@ Led four cross disciplinary teams to ensure stable and reliable operations. My r
 * Technology purchasing and budgeting.
 
 ## Independent Consultant February 2011 - November 2012
-I provided the entertainment industry decision support, best practices evaluation and operational guidance to studios of all sizes. Some projects included:
+I provided the entertainment industry decision support, best practices evaluation and operational guidance to studios of all sizes. 
+### Projects included:
 * Cloud computing infrastructure implementation for online gaming.
 * Render queue and pipeline redesign.
 * Systems management and monitoring implementation.
 
-## Disney / ImageMovers Digital, Novato, California, March 2007 – February 2011 Principal Systems Architect
+## Disney / ImageMovers Digital, Novato, California, March 2007 – February 2011
+### Principal Systems Architect
 I was responsible for all aspects of systems technology design and implementation. As a founding member of the systems team I built the infrastructure from the ground up. At our peak we had over 12,000 processing cores, 2 PB of storage, and over 1000 workstations located across three campuses. I managed relationships with all technology vendors, was responsible for developing the annual budget for systems infrastructure and directly managed seven senior technologists. During my tenure at IMD we relocated our headquarters twice. The second move included planning and build out of a state of the art data center.
 
-### Notable technology research projects I initiated while at IMD:
+#### Notable technology research projects I initiated while at IMD:
 * Parallel NFS file system driver for real time 2K video playback over NFS.
 * Data visualization tool for very large (1 billion+ objects) filesystem management.
 * Host sFlow agent and collector development in association with the host-flow project and inMon corp.
 
-## Lucasfilm Entertainment Company, San Francisco, California, November 2005 – March 2007 Senior Network Engineer
+## Lucasfilm Entertainment Company, San Francisco, California, November 2005 – March
+### 2007 Senior Network Engineer
 I was responsible for design, implementation, and maintenance of data and voice networking for the Lucas family of companies at all US locations. These networks included high performance rendering, secure business and accounting, high speed WAN, and many others. In addition to traditional routing and switching I was also responsible for the design, development and maintenance of a suite of custom network monitoring and management tools.
     
 ## eTag Technology, Sausalito, California, January 2005 – November 2005
 eTag was founded on the belief that innovations like the BlackBerry, other mobile devices, and RF technologies like RFID will fundamentally change how consumers interact with the world.
-### Vice President Systems Technology
+### VP Systems Technology
 I was responsible for all aspects of data and telecom systems design and implementation. This included the design of a nationwide rollout and management of self service kiosks. In this role I was also responsible for managing relationships with all technology vendors as well as maintaining internal corporate IT assets.
 
 ## ESC Entertainment, Alameda, California, February 2003 – October 2004
